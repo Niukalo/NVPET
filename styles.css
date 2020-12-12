@@ -1,0 +1,39 @@
+
+.text {
+font-size: 20px;
+}
+
+.title {
+font-style: italic;
+}
+
+body {
+font-family: &#39;Helvetica Neue&#39;, &#39;Roboto&#39;, &#39;Verdana&#39;, &#39;Tahoma&#39;, sans-serif;
+}
+
+.text {
+text-decoration: line-through;
+}
+
+.link {
+text-decoration: none;
+}
+
+.post-title {
+text-align: center;
+}
+.align-right {
+text-align: right;
+}
+.align-justify {
+text-align: justify;
+}
+
+
+.text {
+font-family: &#39;Tahoma&#39;, serif;
+color: #554411;
+font-size: 16px;
+line-height: 1.5;
+background-color: #3f51b5;
+}
